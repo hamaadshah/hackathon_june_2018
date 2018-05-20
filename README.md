@@ -2,6 +2,10 @@
 
 Notes for the 2nd of June 2018 hackathon.
 
+We will aim to use the Google Colab environment via Google Drive as it provides us with a GPU to use for free.
+
+* https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
+
 Link to the meetup event:
 
 * https://www.meetup.com/Data-Science-for-Internet-of-Things-Meetup-London/events/250514651/
